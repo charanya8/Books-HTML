@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.div {
+    background-image: url("https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5916.jpg?w=1060&t=st=1674666781~exp=1674667381~hmac=78a4570704225f28b0497bf9e6af7f5af41c4c798d3e8a0558b707e97ecfa85e");
+    height: 50vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.div1 {
+    background-color: #e384f0;
+    text-align: center;
+    padding: 25px;
+}
+
+.div2 {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    padding: 16px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.h1 {
+    color: #fc0f03;
+    font-family: Caveat;
+    font-weight: bold;
+    font-size: 80px;
+    padding: 30px;
+}
+
+.p1 {
+    color: black;
+    font-family: Lucida Handwriting;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.image {
+    height: 95px;
+    width: 95px;
+}
+
+.h2 {
+    color: #171517;
+    font-size: 13px;
+    font-family: Arial;
+    padding: 5px;
+    font-weight: 200;
+}
+
+.p2 {
+    color: black;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bolder;
+}
